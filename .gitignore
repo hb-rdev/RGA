@@ -19,7 +19,8 @@
 
 # RStudio files
 .Rproj.user/
-*.Rproj
+RGA.Rproj
+.gitignore
 
 # produced vignettes
 vignettes/*.html
